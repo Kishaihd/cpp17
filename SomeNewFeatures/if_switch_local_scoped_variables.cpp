@@ -1,6 +1,6 @@
 /*
  * C++17 lets you declare a local variable bound to the 'if' and 'switch' statements' block of code.
- * The scope of the variable used in the 'if' and 'switch' statements will go out of scope in the respectivee blocks.
+ * The scope of the variable used in the 'if' and 'switch' statements will go out of scope in the respective blocks.
  */
 
 #include <iostream>
